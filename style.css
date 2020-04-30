@@ -67,6 +67,11 @@ button:hover {
     font-size: 13px;
     color: #222;
 }
+.main-nav > ul > li:hover {
+    color: rgba(0, 0, 0, 0.87);
+    text-decoration: underline;
+    cursor: pointer;
+}
 footer {
     display: block;
     bottom: 0;
